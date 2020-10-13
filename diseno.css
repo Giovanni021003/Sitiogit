@@ -1,0 +1,42 @@
+body
+{
+	color: black;
+	font-style:Comic Sans MS;
+}
+.titulo
+{
+	margin-left: 400px;
+	margin-top: 80px; 
+}
+.linea
+{
+	width:80%;  
+	background-color:black;
+}
+.link
+{
+	margin-top:25px;
+	margin-left:150px;
+}
+.link a
+{
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+}
+.link a:hover
+{
+	color:#19A5FA;
+}
+.link a:active
+{
+	color:#334FFF; 
+}
+img	
+{
+	 position: absolute;
+	 top:10px;
+	 left:190px; 
+	 width:170; 
+	 height:120;
+}
